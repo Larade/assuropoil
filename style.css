@@ -1,0 +1,42 @@
+#container{width:550px; margin:0 auto;
+
+}
+
+#bloc-2{width: 350px; margin: 0 auto;
+
+}
+
+#Barre-1{width: 450px; margin: 0 auto;
+
+}
+
+h1 {
+	font-family: arial;
+	font-size: 18px;
+	text-align: right;
+	
+
+}
+
+#bloc-3{width: 450px; margin: 0 auto;
+
+}
+
+
+#Barre-2{width: 275px; margin: 0 auto;
+
+}
+
+#bloc-4{ position: absolute; right: 275px; 
+
+}
+
+#container2{  position: absolute; left: 500px; bottom: -400px;
+
+}
+
+#style { padding:3px; border:2px dotted #a5a5a5; background-color:#e3e3e3;
+
+}
+
+
